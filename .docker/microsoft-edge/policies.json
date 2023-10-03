@@ -28,12 +28,14 @@
   "ExtensionInstallForcelist": [
       "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx",
       "mnjggcdmjocbbbhaepdhchncahnbgone;https://clients2.google.com/service/update2/crx",
-      "eimadpbcbfnmbkopoojfekhnkhdbieeh;https://clients2.google.com/service/update2/crx"
+      "eimadpbcbfnmbkopoojfekhnkhdbieeh;https://clients2.google.com/service/update2/crx",
+      "nngceckbapebfimnlniiiahkandclblb;https://clients2.google.com/service/update2/crx"
   ],
   "ExtensionInstallAllowlist": [
       "cjpalhdlnbpafiamejdnhcphjbkeiagm",
       "mnjggcdmjocbbbhaepdhchncahnbgone",
-      "eimadpbcbfnmbkopoojfekhnkhdbieeh"
+      "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+      "nngceckbapebfimnlniiiahkandclblb"
   ],
   "ExtensionInstallBlocklist": [
       "*"
